@@ -1,5 +1,5 @@
 -  Hi, I’m Bhumika Kushwaha
--  I’m A/Ml engineer
+-  I’m a AI/ML engineer
 -  How to reach me on bhumikakushwaha2004@gmail.com
 
 <!---
