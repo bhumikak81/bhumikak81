@@ -1,5 +1,5 @@
 -  Hi, I’m Bhumika Kushwaha
--  I’m currently pursuing B.E[IT]
+-  I’m A/Ml engineer
 -  How to reach me on bhumikakushwaha2004@gmail.com
 
 <!---
